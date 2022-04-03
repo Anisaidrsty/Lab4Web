@@ -96,3 +96,23 @@ Hasil yang akan di tampilkan
 
 
 **PERTANYAAN DAN TUGAS**
+1. Tambahkan Layout untuk menu About
+=> buat single layout yang berisi deskripsi, portfolio, dll
+Membuat dokumen html dengan nama about.html sebagai berikut.
+![image](https://user-images.githubusercontent.com/101643559/161421974-907c1b6b-f164-4410-9f8d-2eac4dd88753.png)
+Lalu tambahkan css
+![image](https://user-images.githubusercontent.com/101643559/161421989-1b329a2d-c0db-42bb-9513-2db63a30d493.png)
+
+Hasil yang di tampilkan 
+![image](https://user-images.githubusercontent.com/101643559/161421998-e629318d-8e52-4e08-9fd6-b7e4f744e3cf.png)
+
+2. Tambahkan layout untuk menu Contact
+=> yang berisi form isian: nama, email, message, dll
+![image](https://user-images.githubusercontent.com/101643559/161422152-f2a6a31c-14e2-476a-a503-33f8e469f036.png)
+Tambahkan css
+![image](https://user-images.githubusercontent.com/101643559/161422170-1457a6ac-cf37-4222-a0a4-8adb506c4ded.png)
+
+Hasil yang di tampilkan 
+![image](https://user-images.githubusercontent.com/101643559/161422181-5752d99e-323f-4b09-b1de-e1ba01a7d58e.png)
+
+
