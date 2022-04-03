@@ -69,3 +69,30 @@ Hasilnya
 
 Mengatur Footer
 
+Untuk mengatur footer tambahkan koode css berikut 
+![image](https://user-images.githubusercontent.com/101643559/161419103-3939c3d1-7998-4ff9-bb4c-5d57b4eed7e5.png)
+
+Hasil yang akan di tampilkan 
+![image](https://user-images.githubusercontent.com/101643559/161419138-c0f893a9-8735-45b8-9ca5-10beea033457.png)
+
+Menambahkan element lain pada main content
+![image](https://user-images.githubusercontent.com/101643559/161419163-c6d0d2a0-d94c-415b-90b7-d34b1f393560.png)
+Menambakan css
+![image](https://user-images.githubusercontent.com/101643559/161419236-a866d1da-040f-4e3a-942d-047f502c37ac.png)
+![image](https://user-images.githubusercontent.com/101643559/161419247-6a9165a2-808f-4a4d-a11d-edc1cfa7d029.png)
+
+Hasil yang akan di tampilkan 
+![image](https://user-images.githubusercontent.com/101643559/161419259-708243f7-862b-4b4b-9d0d-cdd7829b03c7.png)
+
+Menambahkan content artikel 
+Untuk membuat content artikel, tambahkan kode berikut pada section main.
+![image](https://user-images.githubusercontent.com/101643559/161419506-4d954a76-0074-4ebe-89c2-269aba2ef015.png)
+
+Tambahkan kode css berikut
+![image](https://user-images.githubusercontent.com/101643559/161419512-c4082cbd-ab5d-41c8-8f1a-6db7276d417d.png)
+
+Hasil yang akan di tampilkan 
+![image](https://user-images.githubusercontent.com/101643559/161419544-649b6f92-c100-43c2-b55f-cb473ca277dc.png)
+
+
+**PERTANYAAN DAN TUGAS**
